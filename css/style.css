@@ -1,9 +1,10 @@
-body{
+body {
   background: #eeedec;
   letter-spacing: 0.2em; /* letters a few further apart to look a bit cleaner */
   font-size: 0.8em;  /* to make the font look a little bit smaller */
 }
-
-.container{
+.container {
+  border: 2px;
   min-width: 400px;
 }
+
